@@ -36,8 +36,7 @@ switch (tiempo) {
 var mascotas = ['perro', 'gato', 'serpiente'];
 
 var mascotas_plus = [
-    'perro', 4, 'boby',
-    'gato', 12, 'misha'
+    'perro', 4, 'boby','gato', 12, 'misha', [], 80, '' //podemos en array anadir diferentes datos
 ];
 
 var nombre = mascotas_plus.indexOf('misha');
